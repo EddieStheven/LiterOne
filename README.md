@@ -2,9 +2,9 @@ OBJETIVO: Desenvolver um Catálogo de Livros que ofereça interação textual (v
 
 Foram seguidos essas etapas:
 
-*Configuração do ambiente Java;
-*Criação do Projeto;
-*Consumo da API;
-*Análise da Resposta JSON;
-*Inserção e consulta no banco de dados;
-*Exibição de resultados aos usuários;
+Configuração do ambiente Java;
+Criação do Projeto;
+Consumo da API;
+Análise da Resposta JSON;
+Inserção e consulta no banco de dados;
+Exibição de resultados aos usuários;
